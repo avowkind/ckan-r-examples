@@ -3,6 +3,8 @@ Examples of using the CKAN API from R language.
 
 Most of this content is taken from the original CKAN R package Readme. I have updated the examples to work with PFR demo.
 
+Example files available at https://github.com/avowkind/ckan-r-examples
+
 ## Description
 
 CKAN is an open source set of tools for hosting and providing data on the web. (CKAN users could include non-profits, museums, local city/county governments, etc.).
