@@ -1,0 +1,32 @@
+{
+  "name": "lure-dispenser-comparison-trial",
+  "title": "Lure Dispenser comparison trial, thrips, Australia, Perth",
+  "notes": "Assess three thrips Lure delivery mechanisms:\n\n* P Paint pen\n* D Deer wick\n* C Control (no wick)",
+  "private": false,
+  "owner_org": "plant-and-food-research-nz",
+  "state": "active",
+  "project_code": "P/1234",
+  "author": "Mette Nielson",
+  "project_leader_email":	"Mette.Nielson@plantandfood.co.nz",
+  "data_custodian": "Mette Nielson",
+  "data_custodian_email": "Mette.Nielson@plantandfood.co.nz",
+  "other_researcher":	"David Teulon",
+  "biometrician": "Ruth Butler",
+  "credits": "Mel Walker",
+  "license_id" : "PFR Internal Use only",
+  "tags": [ 
+    { "name": "thrips" },
+    { "name": "lure" },
+    { "name": "delivery system" }
+  ],
+  "resources": [
+    { 
+      "name"               : "PFR_Research_Template_Example_SimpleExperiment_very_small_trial",
+      "description"        : "Excel sheet for Lure Dispenser comparison trial, thrips, Australia, Perth",
+      "format"             : "xlsx",
+      "url"                : "https://iplant.plantandfood.co.nz/datamanagement/ExcelTemplatesExamples/PFR_Research_Template_Example_SimpleExperiment_very%20small%20trial.xlsx?Web=0",
+      "mimetype"           : "application/vnd.ms-excel",
+      "url_type"           : "link"
+    }
+  ]
+}
